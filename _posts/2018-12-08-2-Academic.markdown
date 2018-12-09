@@ -1,0 +1,64 @@
+---
+layout: post
+title: Academic Experience
+---
+<img src="/images/fulls/Tsinghua.jpg" class="fit image">
+
+## Education Experience
+
+* 2016.8 to now  
+
+  Major in Depertment of Automation, Tsinghua University, Beijing
+
+* 2017.8 to now 
+
+  Minor in Depertment of Foreign Language and Literature, Tsinghua University, Beijing
+
+* 2017.4 to now
+
+  Member of 16th Siyuan Leadership Program  (36 selected form whole Tsinghua)
+
+* 2018.6 to now
+
+  Member of 6th Qichuang Entrepreneurship Program (20 selected form whole Tsinghua)
+
+## Labortory Experience
+
+### Hawkeye Skyguard
+
+From 2018.6 to now as team leader
+
+This project aims to build a Police Intelligent UAV to solve the problem that there is not enough Moblie Police Force in remote part of cities. Our Intelligent UAV has three main functions: Autonomous Cruise、Detection of Violence and Object Tracking and Alarm.
+
+The UAV will cruise over the street according to the prescribed route with ability to avoid dynamic and static obstacles. Once it detect violent behavior of a person by its camera using computer vision method, it will track the object in the sky and alarm the police simultaneously. Besides, it can carry some expulsion weapons like strong light and loudspeaker to warn and Prevent crimes.
+
+This project has passed the *Beijing University Students Innovation and Entrepreneurship Project* and won the  financial support.
+
+### TransGlass 
+
+From 2017.12 to 2018.5 as team leader
+
+Transglass is a project developed on HoloLens by our team, aiming to solve the problem that people can not figure out what the words means in other languages. In the demo version, the Chinese words in the sight will be translated into English automatically and replace the original words in AR method.
+
+Apart from translation, we have also developed other functions aiming at international travellers.  After the Chinese words are translated into English, a searching button can be touched. If do so, a screen will pop up in the sight, linking to the Wekipedia title of the translated text's key word. Another function is Virtual Message Box, which means you can leave any personal message in a famous scenery. In this way, we can tackle the problem that some people tend to scrawl even on some historical relics.
+
+Finally, TransGlass has won Third Prize in *The 36th Challenge Cup of Tsinghua University* (2018.4) and  3rd place in *The 7th Innovation Competition of Tsinghua University* (2018.5)
+
+<img src="/images/fulls/transglass1.jpg" class="fit image">
+
+<img src="/images/fulls/transglass2.jpg" class="fit image">
+
+### Intellgent Fire Rescure Helmet
+
+From 2017.10 to 2017.12 as team member
+
+Intellgent fire rescure helmet is a project developed on HoloLens on the purpose to assist the fireman to rescure the trapped personnel efficiently with two main functions. 
+
+The first is navigation.In the case that fire station have detected the layout of the building, the helmat will scan the environment and calculate where the fireman is and lead him to the location where the rescures called for help. The second function is visual field enhancement. The helmat will use infrared scanning to detect the surroundings and build the 3D environment model, helping the user to have a clear sight in the situation where lightness is not enough or the smoke is heavy.
+
+Our project won 4th place in *The 2th Microsoft-Tsinghua Digital Reality Development Competition*(2017.12)
+
+<img src="/images/fulls/Fire1.jpg" class="fit image">
+
+
+

@@ -1,0 +1,49 @@
+---
+layout: post
+title: Extracurricular Life
+---
+<img src="/images/fulls/brilliant.jpg" class="fit image"> 
+
+## Chinese Kung Fu
+
+I can play Yongchun & Taiji.
+
+<img src="/images/fulls/taiji1.jpg" class="fit image"> 
+
+Playing Taiji on the summit of Wudang mountain, where Taiji originates from.
+
+<img src="/images/fulls/taiji2.jpeg" class="fit image"> 
+
+Being the captain of Wushu Team of Automation Department.
+
+## See the World
+
+I like travelling a lot,
+
+<img src="/images/fulls/china.jpg" class="fit image"> 
+
+77 cities in China, covering 22 provinces.
+
+<img src="/images/fulls/world.jpg" class="fit image"> 
+
+8 countries in the world.
+
+## Literature and Art Activities
+
+<img src="/images/fulls/host.jpg" class="fit image"> 
+
+Being the host of *Student Festival Literature and Art Evening*
+
+<img src="/images/fulls/dance.jpg" class="fit image"> 
+
+Orginizing the freshman's dance party.
+
+## With My Love
+
+<img src="/images/fulls/love3.jpg" class="fit image"> 
+
+<img src="/images/fulls/love.jpg" class="fit image"> 
+
+<img src="/images/fulls/love4.png" class="fit image"> 
+
+<img src="/images/fulls/love5.png" class="fit image"> 
