@@ -6,7 +6,7 @@ title: Academic Experience
 
 ## Education Experience
 
-* From 2016.8 to now  
+* August, 2016  ~  now  
 
   Major in Department of Automation, Tsinghua University, Beijing
 
@@ -26,7 +26,7 @@ title: Academic Experience
   | Principle of Circuits                     | A-    | Electronic Technology Practice                     | B+    |
   | Contemporary Electronic System Design     | B+    | Introduction of Terahertz Technology               | B+    |
 
-* From 2017.8 to now 
+* August, 2017  ~  now 
 
   Minor in Department of Foreign Language and Literature, Tsinghua University, Beijing
 
@@ -39,7 +39,7 @@ title: Academic Experience
   | British Society and Culture               | B+    | American Society and Culture                      | B+    |
   | English Listening(1)                      | B+    | English Listening(2)                              | B+    |
 
-* From 2017.4 to now
+* April, 2017  ~  now
 
   Member of 16th Siyuan Leadership Program  (36 selected form whole Tsinghua)
 
@@ -51,7 +51,7 @@ title: Academic Experience
 
   Visiting *Phoenix Satellite TV* in Hong Kong (2018.8)
 
-* From 2018.6 to now
+* June, 2018  ~  now
 
   Member of 6th Qichuang Entrepreneurship Program (20 selected form whole Tsinghua)
 
@@ -59,7 +59,7 @@ title: Academic Experience
 
 ### Hawkeye Skyguard
 
-From 2018.6 to now as team leader
+June, 2018  ~  now  (as team leader)
 
 This project aims to build a Police Intelligent UAV to solve the problem that there is not enough Moblie Police Force in remote part of cities. Our Intelligent UAV has three main functions: Autonomous Cruise、Detection of Violence and Object Tracking and Alarm.
 
@@ -69,7 +69,7 @@ This project has passed the *Beijing University Students Innovation and Entrepre
 
 ### TransGlass 
 
-From 2017.12 to 2018.5 as team leader
+December, 2017  ~  May, 2018  (as team leader)
 
 Transglass is a project developed on HoloLens by our team, aiming to solve the problem that people can not figure out what the words means in other languages. In the demo version, the Chinese words in the sight will be translated into English automatically and replace the original words in AR method.
 
@@ -83,7 +83,7 @@ Finally, TransGlass has won Third Prize in *The 36th Challenge Cup of Tsinghua U
 
 ### Intellgent Fire Rescure Helmet
 
-From 2017.10 to 2017.12 as team member
+October, 2017  ~  December, 2017  (as team member)
 
 Intellgent fire rescure helmet is a project developed on HoloLens on the purpose to assist the fireman to rescure the trapped personnel efficiently with two main functions. 
 

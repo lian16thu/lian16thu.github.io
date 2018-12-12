@@ -1,56 +1,52 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-12T19:07:38+08:00</updated><id>http://localhost:4000/</id><title>Li Annan | Something Brilliant This Way Comes</title><subtitle>It‘s my personal page.
-</subtitle><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><entry><title>Honors</title><link href="http://localhost:4000/2018/12/08/3-Honor/" rel="alternate" type="text/html" title="Honors" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/3-Honor</id><content type="html" xml:base="http://localhost:4000/2018/12/08/3-Honor/">&lt;p&gt;&lt;img src=&quot;/images/fulls/honors2.jpg&quot; class=&quot;fit image&quot; /&gt; 
-test&lt;/p&gt;
-&lt;h2 id=&quot;scholarshop&quot;&gt;Scholarshop&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-12T20:30:53+08:00</updated><id>http://localhost:4000/</id><title>Li Annan | Something Brilliant This Way Comes</title><subtitle>It‘s my personal page.
+</subtitle><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><entry><title>Honors</title><link href="http://localhost:4000/2018/12/08/3-Honor/" rel="alternate" type="text/html" title="Honors" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/3-Honor</id><content type="html" xml:base="http://localhost:4000/2018/12/08/3-Honor/">&lt;p&gt;&lt;img src=&quot;/images/fulls/honors2.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;scholarship&quot;&gt;Scholarship&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;2018.11 Excellent Student Cadres of Tsinghua University&lt;/li&gt;
-  &lt;li&gt;2018.10 Excellent Scholarship in Social Work&lt;/li&gt;
-  &lt;li&gt;2018.10 Excellent Scholarship in Artistic Work&lt;/li&gt;
-  &lt;li&gt;2018.10 Excellent Scholarship in Technological Innovation&lt;/li&gt;
-  &lt;li&gt;2018.5   HAGE Scholarship of Automation Department&lt;/li&gt;
-  &lt;li&gt;2017.10 “December 9th” Excellent Scholarship in Overall Aspect&lt;/li&gt;
-  &lt;li&gt;2017.10 Excellent Scholarship in Voluntary&lt;/li&gt;
-  &lt;li&gt;2017.10 Excellent Scholarship in Social Investigation&lt;/li&gt;
+  &lt;li&gt;“December 9th” Excellent Scholarship in Overall Aspect  (top 2%)&lt;/li&gt;
+  &lt;li&gt;Excellent Student Cadres of Tsinghua University&lt;/li&gt;
+  &lt;li&gt;University Scholarship for Excellent Social Work&lt;/li&gt;
+  &lt;li&gt;University Scholarship for Excellent Artistic Work&lt;/li&gt;
+  &lt;li&gt;University Scholarship for Excellent Technological Innovation&lt;/li&gt;
+  &lt;li&gt;University Scholarship for Excellent Social Investigation&lt;/li&gt;
+  &lt;li&gt;University Scholarship for Excellent Voluntary&lt;/li&gt;
+  &lt;li&gt;HAGE Scholarship of Automation Department&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;honors-as-innovator&quot;&gt;Honors as Innovator&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;2018.5   Rank 3th in &lt;em&gt;The 7th Innovation Competition of Tsinghua University&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;2018.4   Third Prize in &lt;em&gt;The 36th Challenge Cup of Tsinghua University&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;2017.12 Rank 4th in &lt;em&gt;The 2th Microsoft-Tsinghua Digital Reality Development Competition&lt;/em&gt; (As team member)&lt;/li&gt;
-  &lt;li&gt;2017.6   Second Prize in &lt;em&gt;Hardware Design Competition of Tsinghua University&lt;/em&gt; (As team leader)&lt;/li&gt;
+  &lt;li&gt;As first author, ranked 3th in &lt;em&gt;The 7th Innovation Competition of Tsinghua University&lt;/em&gt;  (May, 2018)&lt;/li&gt;
+  &lt;li&gt;As first author, won third Prize in &lt;em&gt;The 36th Challenge Cup of Tsinghua University&lt;/em&gt; (April, 2018)&lt;/li&gt;
+  &lt;li&gt;As team member, ranked 4th in &lt;em&gt;The 2th Microsoft-Tsinghua Digital Reality Development Competition&lt;/em&gt; (December, 2017)&lt;/li&gt;
+  &lt;li&gt;As team leader, won Second Prize in &lt;em&gt;Hardware Design Competition of Tsinghua University&lt;/em&gt; (June, 2017)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;honors-as-volunteer&quot;&gt;Honors as Volunteer&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;2018.2   International Volunteer of &lt;em&gt;World Without Borders&lt;/em&gt; Program&lt;/li&gt;
-  &lt;li&gt;2017.12 Excellent Volunteer of &lt;em&gt;The 15th Buddy Program&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;2017.6   Three Star Volunteers of Tsinghua University&lt;/li&gt;
-  &lt;li&gt;2017.5   First Prize of &lt;em&gt;The 15th Return to Alma Mater Program of Tsinghua University&lt;/em&gt; (As team leader)&lt;/li&gt;
+  &lt;li&gt;International Volunteer of &lt;em&gt;World Without Borders&lt;/em&gt; Program (February, 2018)&lt;/li&gt;
+  &lt;li&gt;Excellent Volunteer of &lt;em&gt;The 15th Buddy Program&lt;/em&gt; (December, 2017)&lt;/li&gt;
+  &lt;li&gt;Three Star Volunteers of Tsinghua University (June, 2017)&lt;/li&gt;
+  &lt;li&gt;First Prize of &lt;em&gt;The 15th Return to Alma Mater Program of Tsinghua University&lt;/em&gt; (May, 2017)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;honors-as-athlete&quot;&gt;Honors as Athlete&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;2018.4   Acomplish Award of &lt;em&gt;The Campus Marathon of Tsinghua&lt;/em&gt; (10km)&lt;/li&gt;
-  &lt;li&gt;2017.12 Rank 5th in &lt;em&gt;Group Taiji Competition of Tsinghua&lt;/em&gt; (As team leader)&lt;/li&gt;
-  &lt;li&gt;2017.12 Rank 5th in &lt;em&gt;Men’s Taiji Competition of Tsinghua&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;2017.6   Fighting Spirit Award of Automation Department&lt;/li&gt;
-  &lt;li&gt;2017.4   Acomplish Award of &lt;em&gt;The Campus Marathon of Tsinghua&lt;/em&gt; (10km)&lt;/li&gt;
-  &lt;li&gt;2017.4   Rank 4th in &lt;em&gt;Aerobics Competition of Tsinghua&lt;/em&gt; (As team member)&lt;/li&gt;
-  &lt;li&gt;2016.12 Rank 6th in &lt;em&gt;Group Taiji Competition of Tsinghua&lt;/em&gt; (As team member)&lt;/li&gt;
-  &lt;li&gt;2016.11 Rank first in &lt;em&gt;Freshmen’s Skipping and Running Competition of Tsinghua&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><summary>test
-Scholarshop</summary></entry><entry><title>Academic Experience</title><link href="http://localhost:4000/2018/12/08/2-Academic/" rel="alternate" type="text/html" title="Academic Experience" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/2-Academic</id><content type="html" xml:base="http://localhost:4000/2018/12/08/2-Academic/">&lt;p&gt;&lt;img src=&quot;/images/fulls/Tsinghua.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+  &lt;li&gt;Rank 5th in &lt;em&gt;Group Taiji Competition of Tsinghua&lt;/em&gt; (As team leader) (December, 2017)&lt;/li&gt;
+  &lt;li&gt;Rank 5th in &lt;em&gt;Men’s Taiji Competition of Tsinghua&lt;/em&gt; (December,2017)&lt;/li&gt;
+  &lt;li&gt;Fighting Spirit Award of Automation Department (June, 2017)&lt;/li&gt;
+  &lt;li&gt;Acomplish Award of &lt;em&gt;The Campus Marathon of Tsinghua&lt;/em&gt; (10km) (April, 2017)&lt;/li&gt;
+  &lt;li&gt;Rank 4th in &lt;em&gt;Aerobics Competition of Tsinghua&lt;/em&gt;  (April, 2017)&lt;/li&gt;
+  &lt;li&gt;Rank first in &lt;em&gt;Freshmen’s Skipping and Running Competition of Tsinghua&lt;/em&gt; (November, 2016)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><summary>Scholarship</summary></entry><entry><title>Academic Experience</title><link href="http://localhost:4000/2018/12/08/2-Academic/" rel="alternate" type="text/html" title="Academic Experience" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/2-Academic</id><content type="html" xml:base="http://localhost:4000/2018/12/08/2-Academic/">&lt;p&gt;&lt;img src=&quot;/images/fulls/Tsinghua.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;education-experience&quot;&gt;Education Experience&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;From 2016.8 to now&lt;/p&gt;
+    &lt;p&gt;August, 2016  ~  now&lt;/p&gt;
 
     &lt;p&gt;Major in Department of Automation, Tsinghua University, Beijing&lt;/p&gt;
 
@@ -126,7 +122,7 @@ Scholarshop</summary></entry><entry><title>Academic Experience</title><link href
     &lt;/table&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;From 2017.8 to now&lt;/p&gt;
+    &lt;p&gt;August, 2017  ~  now&lt;/p&gt;
 
     &lt;p&gt;Minor in Department of Foreign Language and Literature, Tsinghua University, Beijing&lt;/p&gt;
 
@@ -170,7 +166,7 @@ Scholarshop</summary></entry><entry><title>Academic Experience</title><link href
     &lt;/table&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;From 2017.4 to now&lt;/p&gt;
+    &lt;p&gt;April, 2017  ~  now&lt;/p&gt;
 
     &lt;p&gt;Member of 16th Siyuan Leadership Program  (36 selected form whole Tsinghua)&lt;/p&gt;
 
@@ -183,7 +179,7 @@ Scholarshop</summary></entry><entry><title>Academic Experience</title><link href
     &lt;p&gt;Visiting &lt;em&gt;Phoenix Satellite TV&lt;/em&gt; in Hong Kong (2018.8)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;From 2018.6 to now&lt;/p&gt;
+    &lt;p&gt;June, 2018  ~  now&lt;/p&gt;
 
     &lt;p&gt;Member of 6th Qichuang Entrepreneurship Program (20 selected form whole Tsinghua)&lt;/p&gt;
   &lt;/li&gt;
@@ -193,7 +189,7 @@ Scholarshop</summary></entry><entry><title>Academic Experience</title><link href
 
 &lt;h3 id=&quot;hawkeye-skyguard&quot;&gt;Hawkeye Skyguard&lt;/h3&gt;
 
-&lt;p&gt;From 2018.6 to now as team leader&lt;/p&gt;
+&lt;p&gt;June, 2018  ~  now  (as team leader)&lt;/p&gt;
 
 &lt;p&gt;This project aims to build a Police Intelligent UAV to solve the problem that there is not enough Moblie Police Force in remote part of cities. Our Intelligent UAV has three main functions: Autonomous Cruise、Detection of Violence and Object Tracking and Alarm.&lt;/p&gt;
 
@@ -203,7 +199,7 @@ Scholarshop</summary></entry><entry><title>Academic Experience</title><link href
 
 &lt;h3 id=&quot;transglass&quot;&gt;TransGlass&lt;/h3&gt;
 
-&lt;p&gt;From 2017.12 to 2018.5 as team leader&lt;/p&gt;
+&lt;p&gt;December, 2017  ~  May, 2018  (as team leader)&lt;/p&gt;
 
 &lt;p&gt;Transglass is a project developed on HoloLens by our team, aiming to solve the problem that people can not figure out what the words means in other languages. In the demo version, the Chinese words in the sight will be translated into English automatically and replace the original words in AR method.&lt;/p&gt;
 
@@ -217,7 +213,7 @@ Scholarshop</summary></entry><entry><title>Academic Experience</title><link href
 
 &lt;h3 id=&quot;intellgent-fire-rescure-helmet&quot;&gt;Intellgent Fire Rescure Helmet&lt;/h3&gt;
 
-&lt;p&gt;From 2017.10 to 2017.12 as team member&lt;/p&gt;
+&lt;p&gt;October, 2017  ~  December, 2017  (as team member)&lt;/p&gt;
 
 &lt;p&gt;Intellgent fire rescure helmet is a project developed on HoloLens on the purpose to assist the fireman to rescure the trapped personnel efficiently with two main functions.&lt;/p&gt;
 
@@ -226,6 +222,41 @@ Scholarshop</summary></entry><entry><title>Academic Experience</title><link href
 &lt;p&gt;Our project won 4th place in &lt;em&gt;The 2th Microsoft-Tsinghua Digital Reality Development Competition&lt;/em&gt;(2017.12)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/fulls/Fire1.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;</content><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><summary></summary></entry><entry><title>Extracurricular Life</title><link href="http://localhost:4000/2018/12/08/1-Life/" rel="alternate" type="text/html" title="Extracurricular Life" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/1-Life</id><content type="html" xml:base="http://localhost:4000/2018/12/08/1-Life/">&lt;p&gt;&lt;img src=&quot;/images/fulls/brilliant.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;campus-activities&quot;&gt;Campus Activities&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;June, 2018  ~  now&lt;/p&gt;
+
+    &lt;p&gt;Vice Prisident of Student Union, in charge of Public Relations Departerment and Propaganda Departerment.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;February, 2018  ~  May, 2018&lt;/p&gt;
+
+    &lt;p&gt;Student Assistant at X-lab ( Innovation and Entrepreneurship Platform of Tsinghua)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;June, 2017  ~  June, 2018&lt;/p&gt;
+
+    &lt;p&gt;Minister of Public Relations Departerment of Student Union&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;May, 2017  ~  May, 2018&lt;/p&gt;
+
+    &lt;p&gt;Monitor of Class 63 of Automation Department&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;January, 2017  ~  June, 2017&lt;/p&gt;
+
+    &lt;p&gt;Member of Sports Department of Student Union&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;August, 2016  ~  May, 2017&lt;/p&gt;
+
+    &lt;p&gt;Member of Student Association of Educational Poverty Alleviation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;chinese-kung-fu&quot;&gt;Chinese Kung Fu&lt;/h2&gt;
 
@@ -239,6 +270,28 @@ Scholarshop</summary></entry><entry><title>Academic Experience</title><link href
 
 &lt;p&gt;Being the captain of Wushu Team of Automation Department.&lt;/p&gt;
 
+&lt;h2 id=&quot;voluntary-work&quot;&gt;Voluntary Work&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fulls/voluntary.png&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Voluntary Teaching in Huaqing High School, Shanxi Provice, China (August, 2017)&lt;/p&gt;
+
+&lt;p&gt;Voluntary Work at Orphanage, Canggu, Indonesia (January, 2018)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fulls/shuxiao.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Being Councellor in Summer School of Tsinghua University (July, 2017)&lt;/p&gt;
+
+&lt;h2 id=&quot;literature-and-art-activities&quot;&gt;Literature and Art Activities&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fulls/host1.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Being the host of &lt;em&gt;Student Festival Literature and Art Evening&lt;/em&gt;. (December, 2017)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fulls/dance1.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Orginizing &lt;em&gt;Freshman’s Dance Party&lt;/em&gt; (September, 2017)&lt;/p&gt;
+
 &lt;h2 id=&quot;see-the-world&quot;&gt;See the World&lt;/h2&gt;
 
 &lt;p&gt;I like travelling a lot,&lt;/p&gt;
@@ -251,25 +304,15 @@ Scholarshop</summary></entry><entry><title>Academic Experience</title><link href
 
 &lt;p&gt;8 countries in the world.&lt;/p&gt;
 
-&lt;h2 id=&quot;literature-and-art-activities&quot;&gt;Literature and Art Activities&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/fulls/host1.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Being the host of &lt;em&gt;Student Festival Literature and Art Evening&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/fulls/dance1.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Orginizing &lt;em&gt;Freshman’s Dance Party&lt;/em&gt;.&lt;/p&gt;
-
 &lt;h2 id=&quot;hackthon&quot;&gt;Hackthon&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/fulls/hackthon3.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;May, 2018, &lt;em&gt;JUNCTIONxTsinghua&lt;/em&gt;, Beijing&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;JUNCTIONxTsinghua&lt;/em&gt;, Beijing, China (May, 2018)&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/fulls/hackthon4.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;August, 2018, ,&lt;em&gt;TechX Hackthon&lt;/em&gt;, Shanghai&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;TechX Hackthon&lt;/em&gt;, Shanghai, China (August, 2018)&lt;/p&gt;
 
 &lt;h2 id=&quot;with-my-love&quot;&gt;With My Love&lt;/h2&gt;
 
