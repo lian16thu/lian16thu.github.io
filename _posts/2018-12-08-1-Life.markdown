@@ -30,17 +30,27 @@ I like travelling a lot,
 
 ## Literature and Art Activities
 
-<img src="/images/fulls/host.jpg" class="fit image"> 
+<img src="/images/fulls/host1.jpg" class="fit image"> 
 
 Being the host of *Student Festival Literature and Art Evening*
 
-<img src="/images/fulls/dance.jpg" class="fit image"> 
+<img src="/images/fulls/dance1.jpg" class="fit image"> 
 
 Orginizing the freshman's dance party.
 
+## Hackthon
+
+<img src="/images/fulls/hackthon1.jpg" class="fit image"> 
+
+May, 2018, *JUNCTIONxTsinghua*, Beijing
+
+<img src="/images/fulls/hackthon2.jpg" class="fit image"> 
+
+ August, 2018, ,*TechX Hackthon*, Shanghai
+
 ## With My Love
 
-<img src="/images/fulls/love3.jpg" class="fit image"> 
+<img src="/images/fulls/love1.jpg" class="fit image"> 
 
 <img src="/images/fulls/love.jpg" class="fit image"> 
 

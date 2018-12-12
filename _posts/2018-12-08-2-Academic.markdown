@@ -6,19 +6,52 @@ title: Academic Experience
 
 ## Education Experience
 
-* 2016.8 to now  
+* From 2016.8 to now  
 
-  Major in Depertment of Automation, Tsinghua University, Beijing
+  Major in Department of Automation, Tsinghua University, Beijing
 
-* 2017.8 to now 
+  GPA：3.44    Rank: 15/168   (2 years)
 
-  Minor in Depertment of Foreign Language and Literature, Tsinghua University, Beijing
+  Main Course
 
-* 2017.4 to now
+  | Course Title                              | Grade | Course Title                                       | Grade |
+  | ----------------------------------------- | ----- | -------------------------------------------------- | ----- |
+  | Calculus A(1)                             | A-    | Calculus A(2)                                      | B+    |
+  | Linear Algebra(1)                         | A-    | Linear Algebra(2)                                  | A-    |
+  | Fundamentals of Engineering Graphics      | A-    | Introduction to Complex Analysis                   | B+    |
+  | Stochastic Mathematical Methods           | B+    | Roads to Academic                                  | A-    |
+  | Physics for Scientists and Engineers B(1) | A-    | Physics for Scientists and Engineers B(2)          | A     |
+  | Computer Languages and Programming        | A     | Data Structures                                    | A-    |
+  | C++Programme Design and Training          | B+    | Introduction to Information Science and Technology | A-    |
+  | Principle of Circuits                     | A-    | Electronic Technology Practice                     | B+    |
+  | Contemporary Electronic System Design     | B+    | Introduction of Terahertz Technology               | B+    |
+
+* From 2017.8 to now 
+
+  Minor in Department of Foreign Language and Literature, Tsinghua University, Beijing
+
+  Main Course
+
+  | Course Title                              | Grade | Course Title                                      | Grade |
+  | ----------------------------------------- | ----- | ------------------------------------------------- | ----- |
+  | Reading & Writing for Reviews             | A-    | The Foundations of Western Culture                | B+    |
+  | Reading, Writing & Translation Challenges | B+    | From the Silver Screen:English Films Appreciation | B+    |
+  | British Society and Culture               | B+    | American Society and Culture                      | B+    |
+  | English Listening(1)                      | B+    | English Listening(2)                              | B+    |
+
+* From 2017.4 to now
 
   Member of 16th Siyuan Leadership Program  (36 selected form whole Tsinghua)
 
-* 2018.6 to now
+  Under the idea of “receiving, growing and giving",  Siyuan is an outstanding college student development program that is tailored to cultivate the future leaders with strong sense of social responsibility and the spirit to contribute.
+
+  Every year’s summer social practice, Siyuan students are required to set up projects in fields like politics, economy and society and research on those projects through both literature review and field study. The themes for each year are “A feeling for motherland”, “Chinese power” and “International vision”.
+
+  <img src="/images/fulls/Siyuan.jpg" class="fit image">
+
+  Visiting *Phoenix Satellite TV* in Hong Kong (2018.8)
+
+* From 2018.6 to now
 
   Member of 6th Qichuang Entrepreneurship Program (20 selected form whole Tsinghua)
 

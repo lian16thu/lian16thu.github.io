@@ -1,1 +1,1 @@
-version 1.0 of my personal page
+it's just my personal page
