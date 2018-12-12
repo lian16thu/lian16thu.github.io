@@ -1,49 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-12T17:48:27+08:00</updated><id>http://localhost:4000/</id><title>Li Annan | Something Brilliant This Way Comes</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</subtitle><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><entry><title>Honors</title><link href="http://localhost:4000/2018/12/08/3-Honor/" rel="alternate" type="text/html" title="Honors" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/3-Honor</id><content type="html" xml:base="http://localhost:4000/2018/12/08/3-Honor/">&lt;p&gt;&lt;img src=&quot;/images/fulls/honors2.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;scholarshop&quot;&gt;Scholarshop&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2018.11 Excellent Student Cadres of Tsinghua University&lt;/li&gt;
-  &lt;li&gt;2018.10 Excellent Scholarship in Social Work&lt;/li&gt;
-  &lt;li&gt;2018.10 Excellent Scholarship in Artistic Work&lt;/li&gt;
-  &lt;li&gt;2018.10 Excellent Scholarship in Technological Innovation&lt;/li&gt;
-  &lt;li&gt;2018.5   HAGE Scholarship of Automation Department&lt;/li&gt;
-  &lt;li&gt;2017.10 “December 9th” Excellent Scholarship in Overall Aspect&lt;/li&gt;
-  &lt;li&gt;2017.10 Excellent Scholarship in Voluntary&lt;/li&gt;
-  &lt;li&gt;2017.10 Excellent Scholarship in Social Investigation&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;honors-as-innovator&quot;&gt;Honors as Innovator&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2018.5   Rank 3th in &lt;em&gt;The 7th Innovation Competition of Tsinghua University&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;2018.4   Third Prize in &lt;em&gt;The 36th Challenge Cup of Tsinghua University&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;2017.12 Rank 4th in &lt;em&gt;The 2th Microsoft-Tsinghua Digital Reality Development Competition&lt;/em&gt; (As team member)&lt;/li&gt;
-  &lt;li&gt;2017.6   Second Prize in &lt;em&gt;Hardware Design Competition of Tsinghua University&lt;/em&gt; (As team leader)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;honors-as-volunteer&quot;&gt;Honors as Volunteer&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2018.2   International Volunteer of &lt;em&gt;World Without Borders&lt;/em&gt; Program&lt;/li&gt;
-  &lt;li&gt;2017.12 Excellent Volunteer of &lt;em&gt;The 15th Buddy Program&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;2017.6   Three Star Volunteers of Tsinghua University&lt;/li&gt;
-  &lt;li&gt;2017.5   First Prize of &lt;em&gt;The 15th Return to Alma Mater Program of Tsinghua University&lt;/em&gt; (As team leader)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;honors-as-athlete&quot;&gt;Honors as Athlete&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2018.4   Acomplish Award of &lt;em&gt;The Campus Marathon of Tsinghua&lt;/em&gt; (10km)&lt;/li&gt;
-  &lt;li&gt;2017.12 Rank 5th in &lt;em&gt;Group Taiji Competition of Tsinghua&lt;/em&gt; (As team leader)&lt;/li&gt;
-  &lt;li&gt;2017.12 Rank 5th in &lt;em&gt;Men’s Taiji Competition of Tsinghua&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;2017.6   Fighting Spirit Award of Automation Department&lt;/li&gt;
-  &lt;li&gt;2017.4   Acomplish Award of &lt;em&gt;The Campus Marathon of Tsinghua&lt;/em&gt; (10km)&lt;/li&gt;
-  &lt;li&gt;2017.4   Rank 4th in &lt;em&gt;Aerobics Competition of Tsinghua&lt;/em&gt; (As team member)&lt;/li&gt;
-  &lt;li&gt;2016.12 Rank 6th in &lt;em&gt;Group Taiji Competition of Tsinghua&lt;/em&gt; (As team member)&lt;/li&gt;
-  &lt;li&gt;2016.11 Rank first in &lt;em&gt;Freshmen’s Skipping and Running Competition of Tsinghua&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><summary></summary></entry><entry><title>Academic Experience</title><link href="http://localhost:4000/2018/12/08/2-Academic/" rel="alternate" type="text/html" title="Academic Experience" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/2-Academic</id><content type="html" xml:base="http://localhost:4000/2018/12/08/2-Academic/">&lt;p&gt;&lt;img src=&quot;/images/fulls/Tsinghua.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-12T18:27:49+08:00</updated><id>http://localhost:4000/</id><title>Li Annan | Something Brilliant This Way Comes</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><entry><title>Academic Experience</title><link href="http://localhost:4000/2018/12/08/2-Academic/" rel="alternate" type="text/html" title="Academic Experience" /><published>2018-12-08T00:00:00+08:00</published><updated>2018-12-08T00:00:00+08:00</updated><id>http://localhost:4000/2018/12/08/2-Academic</id><content type="html" xml:base="http://localhost:4000/2018/12/08/2-Academic/">&lt;p&gt;&lt;img src=&quot;/images/fulls/Tsinghua.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;education-experience&quot;&gt;Education Experience&lt;/h2&gt;
 
@@ -278,4 +234,48 @@
 
 &lt;p&gt;&lt;img src=&quot;/images/fulls/love4.png&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/fulls/love5.png&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;</content><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><summary></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/images/fulls/love5.png&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;</content><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><summary></summary></entry><entry><title>Honors</title><link href="http://localhost:4000/2015/07/31/3-Honor/" rel="alternate" type="text/html" title="Honors" /><published>2015-07-31T00:00:00+08:00</published><updated>2015-07-31T00:00:00+08:00</updated><id>http://localhost:4000/2015/07/31/3-Honor</id><content type="html" xml:base="http://localhost:4000/2015/07/31/3-Honor/">&lt;p&gt;&lt;img src=&quot;/images/fulls/honors2.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;scholarshop&quot;&gt;Scholarshop&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2018.11 Excellent Student Cadres of Tsinghua University&lt;/li&gt;
+  &lt;li&gt;2018.10 Excellent Scholarship in Social Work&lt;/li&gt;
+  &lt;li&gt;2018.10 Excellent Scholarship in Artistic Work&lt;/li&gt;
+  &lt;li&gt;2018.10 Excellent Scholarship in Technological Innovation&lt;/li&gt;
+  &lt;li&gt;2018.5   HAGE Scholarship of Automation Department&lt;/li&gt;
+  &lt;li&gt;2017.10 “December 9th” Excellent Scholarship in Overall Aspect&lt;/li&gt;
+  &lt;li&gt;2017.10 Excellent Scholarship in Voluntary&lt;/li&gt;
+  &lt;li&gt;2017.10 Excellent Scholarship in Social Investigation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;honors-as-innovator&quot;&gt;Honors as Innovator&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2018.5   Rank 3th in &lt;em&gt;The 7th Innovation Competition of Tsinghua University&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;2018.4   Third Prize in &lt;em&gt;The 36th Challenge Cup of Tsinghua University&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;2017.12 Rank 4th in &lt;em&gt;The 2th Microsoft-Tsinghua Digital Reality Development Competition&lt;/em&gt; (As team member)&lt;/li&gt;
+  &lt;li&gt;2017.6   Second Prize in &lt;em&gt;Hardware Design Competition of Tsinghua University&lt;/em&gt; (As team leader)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;honors-as-volunteer&quot;&gt;Honors as Volunteer&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2018.2   International Volunteer of &lt;em&gt;World Without Borders&lt;/em&gt; Program&lt;/li&gt;
+  &lt;li&gt;2017.12 Excellent Volunteer of &lt;em&gt;The 15th Buddy Program&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;2017.6   Three Star Volunteers of Tsinghua University&lt;/li&gt;
+  &lt;li&gt;2017.5   First Prize of &lt;em&gt;The 15th Return to Alma Mater Program of Tsinghua University&lt;/em&gt; (As team leader)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;honors-as-athlete&quot;&gt;Honors as Athlete&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2018.4   Acomplish Award of &lt;em&gt;The Campus Marathon of Tsinghua&lt;/em&gt; (10km)&lt;/li&gt;
+  &lt;li&gt;2017.12 Rank 5th in &lt;em&gt;Group Taiji Competition of Tsinghua&lt;/em&gt; (As team leader)&lt;/li&gt;
+  &lt;li&gt;2017.12 Rank 5th in &lt;em&gt;Men’s Taiji Competition of Tsinghua&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;2017.6   Fighting Spirit Award of Automation Department&lt;/li&gt;
+  &lt;li&gt;2017.4   Acomplish Award of &lt;em&gt;The Campus Marathon of Tsinghua&lt;/em&gt; (10km)&lt;/li&gt;
+  &lt;li&gt;2017.4   Rank 4th in &lt;em&gt;Aerobics Competition of Tsinghua&lt;/em&gt; (As team member)&lt;/li&gt;
+  &lt;li&gt;2016.12 Rank 6th in &lt;em&gt;Group Taiji Competition of Tsinghua&lt;/em&gt; (As team member)&lt;/li&gt;
+  &lt;li&gt;2016.11 Rank first in &lt;em&gt;Freshmen’s Skipping and Running Competition of Tsinghua&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><summary></summary></entry></feed>

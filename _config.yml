@@ -3,7 +3,6 @@ title: Li Annan | Something Brilliant This Way Comes # Title of your site
 url: "https://lian16thu.github.io/PersonalPage/" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
-timezone: +800 
 
 # Default description in social shares for the jekyll-seo-tag gem
 description: > # this means to ignore newlines until "baseurl:"
