@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Extracurricular Life
+data: 2015-07-30 16:00:00
 ---
 <img src="/images/fulls/brilliant.jpg" class="fit image"> 
 
