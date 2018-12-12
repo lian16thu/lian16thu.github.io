@@ -4,7 +4,6 @@ title: Honors
 ---
 
 <img src="/images/fulls/honors2.jpg" class="fit image"> 
-test
 ## Scholarshop
 
 * 2018.11 Excellent Student Cadres of Tsinghua University
@@ -32,11 +31,9 @@ test
 
 ## Honors as Athlete
 
-* 2018.4   Acomplish Award of *The Campus Marathon of Tsinghua* (10km)
 * 2017.12 Rank 5th in *Group Taiji Competition of Tsinghua* (As team leader)
 * 2017.12 Rank 5th in *Men's Taiji Competition of Tsinghua*
 * 2017.6   Fighting Spirit Award of Automation Department
 * 2017.4   Acomplish Award of *The Campus Marathon of Tsinghua* (10km)
 * 2017.4   Rank 4th in *Aerobics Competition of Tsinghua* (As team member)
-* 2016.12 Rank 6th in *Group Taiji Competition of Tsinghua* (As team member)
 * 2016.11 Rank first in *Freshmen's Skipping and Running Competition of Tsinghua* 
