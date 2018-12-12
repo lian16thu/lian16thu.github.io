@@ -11,7 +11,7 @@ I can play Yongchun & Taiji.
 
 <img src="/images/fulls/taiji1.jpg" class="fit image"> 
 
-Playing Taiji on the summit of Wudang mountain, where Taiji originates from.
+Playing Taiji on the summit of Wudang Mountain, where Taiji originates from.
 
 <img src="/images/fulls/taiji2.jpeg" class="fit image"> 
 
@@ -37,7 +37,7 @@ Being the host of *Student Festival Literature and Art Evening*
 
 <img src="/images/fulls/dance1.jpg" class="fit image"> 
 
-Orginizing the freshman's dance party.
+Orginizing *Freshman's Dance Party*.
 
 ## Hackthon
 
