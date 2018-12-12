@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Honors
-date: 2015-07-30 16:00:00
 ---
 
 <img src="/images/fulls/honors2.jpg" class="fit image"> 
-
+test
 ## Scholarshop
 
 * 2018.11 Excellent Student Cadres of Tsinghua University

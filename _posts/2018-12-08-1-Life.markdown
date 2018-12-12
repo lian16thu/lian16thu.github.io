@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Extracurricular Life
-data: 2015-07-30 16:00:00
 ---
 <img src="/images/fulls/brilliant.jpg" class="fit image"> 
 
@@ -41,11 +40,11 @@ Orginizing *Freshman's Dance Party*.
 
 ## Hackthon
 
-<img src="/images/fulls/hackthon1.jpg" class="fit image"> 
+<img src="/images/fulls/hackthon3.jpg" class="fit image"> 
 
 May, 2018, *JUNCTIONxTsinghua*, Beijing
 
-<img src="/images/fulls/hackthon2.jpg" class="fit image"> 
+<img src="/images/fulls/hackthon4.jpg" class="fit image"> 
 
  August, 2018, ,*TechX Hackthon*, Shanghai
 

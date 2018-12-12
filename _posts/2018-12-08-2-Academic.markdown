@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Academic Experience
-data: 2015-08-30 16:00:00
 ---
 <img src="/images/fulls/Tsinghua.jpg" class="fit image">
 
