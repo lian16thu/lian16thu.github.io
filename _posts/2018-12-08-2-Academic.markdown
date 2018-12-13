@@ -12,32 +12,33 @@ title: Academic Experience
 
   GPA：3.44    Rank: 15/168   (2 years)
 
-  Main Course
+  I have got excellent grades in the following courses.
 
   | Course Title                              | Grade | Course Title                                       | Grade |
   | ----------------------------------------- | ----- | -------------------------------------------------- | ----- |
-  | Calculus A(1)                             | A-    | Calculus A(2)                                      | B+    |
+  | Calculus A(1)                             | A-    | Fundamentals of Engineering Graphics               | A-    |
   | Linear Algebra(1)                         | A-    | Linear Algebra(2)                                  | A-    |
-  | Fundamentals of Engineering Graphics      | A-    | Introduction to Complex Analysis                   | B+    |
-  | Stochastic Mathematical Methods           | B+    | Roads to Academic                                  | A-    |
   | Physics for Scientists and Engineers B(1) | A-    | Physics for Scientists and Engineers B(2)          | A     |
   | Computer Languages and Programming        | A     | Data Structures                                    | A-    |
-  | C++Programme Design and Training          | B+    | Introduction to Information Science and Technology | A-    |
-  | Principle of Circuits                     | A-    | Electronic Technology Practice                     | B+    |
-  | Contemporary Electronic System Design     | B+    | Introduction of Terahertz Technology               | B+    |
+  | Principle of Circuits                     | A-    | Introduction to Information Science and Technology | A-    |
+
+  Beyond that, I have learnt other courses: 
+
+  Math: Calculus A(2), Introduction to Complex Analysis, Stochastic Mathematical Methods, Signals and System Analysis
+
+  Electrical Courses: Digital Electronics, Fundamentals of Analog Electronics, Computer Principles and Applications, Electronic Technology Practice, Contemporary Electronic System Design
+
+  Others: C++Programme Design and Training, Introduction of Terahertz Technology, Computational Genome Analysis, Dialogue between Neuroscience and Artificial Intelligence: Fudamentals and Frontiers
 
 * August, 2017  ~  now 
 
   Minor in Department of Foreign Language and Literature, Tsinghua University, Beijing
 
-  Main Course
+  Main Course: 
 
-  | Course Title                              | Grade | Course Title                                      | Grade |
-  | ----------------------------------------- | ----- | ------------------------------------------------- | ----- |
-  | Reading & Writing for Reviews             | A-    | The Foundations of Western Culture                | B+    |
-  | Reading, Writing & Translation Challenges | B+    | From the Silver Screen:English Films Appreciation | B+    |
-  | British Society and Culture               | B+    | American Society and Culture                      | B+    |
-  | English Listening(1)                      | B+    | English Listening(2)                              | B+    |
+  Basic Skills: English Readinng, English Listening, Reading & Writing for Reviews, Reading, Writing & Translation Challenges
+
+  Cultural Courses: The Foundations of Western Culture, American Society and Culture, British Society and Culture, From the Silver Screen: English Films Appreciation.
 
 * April, 2017  ~  now
 
@@ -49,7 +50,7 @@ title: Academic Experience
 
   <img src="/images/fulls/Siyuan.jpg" class="fit image">
 
-  Visiting *Phoenix Satellite TV* in Hong Kong (2018.8)
+  Visiting *Phoenix Satellite TV* in Hong Kong (August, 2018)
 
 * June, 2018  ~  now
 
