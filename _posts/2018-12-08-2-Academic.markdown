@@ -8,11 +8,11 @@ title: Academic Experience
 
 ### Major : Automation
 
-August, 2016  ~  now  
+August, 2016  ~  present
 
-Major in Department of Automation, Tsinghua University, Beijing
+**Major in Department of Automation, Tsinghua University, Beijing**
 
-GPA：3.44/4    Rank: 15/168   (2 years)
+**GPA：3.44/4    Rank: 15/168   (2 years)**
 
 I have got excellent grades in the following courses.
 
@@ -26,31 +26,33 @@ I have got excellent grades in the following courses.
 
 Beyond that, I have learnt other courses: 
 
-Math: Calculus A(2), Introduction to Complex Analysis, Stochastic Mathematical Methods, Signals and System Analysis
+**Mathematics:** Calculus A(2), Introduction to Complex Analysis, Stocastic Mathematical Methods, Signals and System Analysis, Numerical Analysis and Algorithms, Principle of Automatic Control.
 
-Electrical Courses: Digital Electronics, Fundamentals of Analog Electronics, Computer Principles and Applications, Electronic Technology Practice, Contemporary Electronic System Design
+**Computer Science:** C++ Programme Design and Training, Computer Networks and Applications, Digital Image Processing.
 
-Others: C++Programme Design and Training, Introduction of Terahertz Technology, Computational Genome Analysis, Dialogue between Neuroscience and Artificial Intelligence: Fudamentals and Frontiers
+ **Electrical Courses：**Digital Electronics, Fundamentals of Analog Electronics, Contemporary Electronic System Design, Foundamentals of Power Electronics Technology.
+
+**Others:** Computational Genome Analysis, Introduction of Terahertz Techonology, Dialogue between Neuroscience and Artificial Intelligence. 
 
 ### Minor : English
 
-August, 2017  ~  now 
+August, 2017  ~  present
 
-Minor in Department of Foreign Language and Literature, Tsinghua University, Beijing
+**Minor in Department of Foreign Language and Literature, Tsinghua University, Beijing**
 
 Main Course: 
 
-Basic Skills: English Readinng, English Listening, Reading & Writing for Reviews, Writing & Translation Challenges
+**Basic Skills:** English Reading (1)(2), English Listening (1)(2), English Writing (1), Reading & Writing for Reviews, Reading & Writing for Translation Challenges, English Interpretation.
 
-Cultural Courses: The Foundations of Western Culture, American Society and Culture, British Society and Culture, From the Silver Screen: English Films Appreciation.
+**Cultural Courses:** The Foundations of Western Culture, British Society and Culture, Americian Society and Culture, From the Silver Screen: English Films Appreciation.
 
 ### Special Talents Training Program of Tsinghua
 
-* Siyuan Leadership Program
+* **Siyuan Leadership Program**
 
-  April, 2017  ~  now
+  April, 2017  ~  present
 
-  Member of 16th Siyuan Leadership Program  (36 selected form whole Tsinghua)
+  **Member of 16th Siyuan Leadership Program  (36 selected form whole Tsinghua)**
 
   Under the idea of “receiving, growing and giving",  "Siyuan" is an outstanding college student development program that is tailored to cultivate the future leaders with strong sense of social responsibility and the spirit to contribute.
 
@@ -60,11 +62,11 @@ Cultural Courses: The Foundations of Western Culture, American Society and Cultu
 
   Visiting *Phoenix Satellite TV* in Hong Kong (August, 2018)
 
-* Qicuang Entrepreneurship Program
+* **Qicuang Entrepreneurship Program**
 
-  June, 2018  ~  now
+  June, 2018  ~  present
 
-  Member of 6th Qichuang Entrepreneurship Program (20 selected form whole Tsinghua)
+  **Member of 6th Qichuang Entrepreneurship Program (20 selected form whole Tsinghua)**
 
   In Chinese, "Qi" means "start" and "Chuang" means "innovation". So with these two main goals, "Qichuang Program" requires the elected students to be equipped with the ability of innovation and the courage to start. 
 
@@ -74,9 +76,9 @@ Cultural Courses: The Foundations of Western Culture, American Society and Cultu
 
 ### An Enhenced Indoor Positioning Method without Fixed Devices
 
-December, 2019 ~ now
+December, 2019 ~ present
 
-Index terms: Indoor Positioning, Inertial Navigation, Augmented Reality
+**Index terms: Indoor Positioning, Inertial Navigation, Augmented Reality**
 
 Current indoor positioning methods are not practical especially in emergency cases, because they require deploying a large number of devices within the buildings, like RFID or routers. In order to solve the existed problem, we proposes a positioning method that fuses the data from inertial navigation system, floor plans of buildings and the distributed data of the evacuation signs. This positioning method achieves the required precision with no need for deploying extra devices in the buildings. 
 
@@ -88,9 +90,9 @@ We adopts particle filter to implement the positioning method. Matlab is used to
 
 ### Hawkeye Skyguard:  Intelligent Aerial Patrol Robot
 
-June, 2018  ~  now  (as team leader)
+June, 2018  ~  present  (as team leader)
 
-Index terms: Aerial Robot Control,  Pedestrian Detection, Action Detection  
+**Index terms: Aerial Robot Control,  Pedestrian Detection, Action Detection  **
 
 This project aims to build a Police Intelligent UAV to solve the problem that there is not enough Moblie Police Force in remote part of cities. Our Intelligent UAV has three main functions: Autonomous Cruise、Detection of Violence and Object Tracking and Alarm.
 
@@ -102,12 +104,12 @@ This project has passed the *Beijing University Students Innovation and Entrepre
 
 <img src="/images/fulls/drone2.png" class="fit image">
 
-### TransGlass: **Personal Assistant in Foreign Language
-Environment**      
+### TransGlass: Personal Assistant in Foreign Language
+Environment   
 
 December, 2017  ~  May, 2018  (as team leader)
 
-Index terms: Character Translation, Augmented Reality
+**Index terms: Character Translation, Augmented Reality**
 
 Transglass is a project developed on HoloLens with Unity3D, aiming to solve the problem that people can not figure out what the words means in other languages. We choose two main usage seenarios , international study and international traveling, and also develop special function to serve the international students or tranveler respectively.
 
@@ -127,7 +129,7 @@ TransGlass has won Third Prize in *The 36th Challenge Cup of Tsinghua University
 
 October, 2017  ~  December, 2017 
 
-Index terms:  Inertial Navigation ,Augmented Reality,Vision Enhancement
+**Index terms:  Inertial Navigation ,Augmented Reality, Vision Enhancement**
 
 Intellgent fire rescure helmet is a project developed on HoloLens on the purpose to assist the fireman to rescure the trapped personnel efficiently with two main functions. 
 
@@ -139,3 +141,16 @@ Our project won 4th place in *The 2th Microsoft-Tsinghua Digital Reality Develop
 
 
 
+##COMPUTING SKILLS AND OTHERS                                                        
+
+**Programming languages:** 
+
+​	C#, C/C++, Python, html, MATLAB, VerilogHDL, Assembly Language.
+
+**Software and Operation Systems:** 
+
+​	Unity3D, Unreal Engine, GitHub, Linux, LaTeX, Ps, Pr.
+
+**Languages:** 
+
+​	Native in Chinese; Proficient in English (TOFEL 96) 
