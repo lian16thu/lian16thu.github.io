@@ -6,13 +6,15 @@ title: Academic Experience
 
 ## Education Experience
 
-### Major : Automation
+### Major : Automation (EECS)
 
 August, 2016  ~  present
 
 **Major in Department of Automation, Tsinghua University, Beijing**
 
 **GPA：3.44/4    Rank: 15/168   (2 years)**
+
+**GPA:   3.58/4	   Rank:  8/168  (first year)**
 
 | Course Title                              | Grade | Course Title                                       | Grade |
 | ----------------------------------------- | ----- | -------------------------------------------------- | ----- |
@@ -88,7 +90,7 @@ We adopts particle filter to implement the positioning method. Matlab is used to
 
 June, 2018  ~  present  (as team leader)
 
-**Index terms: Aerial Robot Control,  Pedestrian Detection, Action Detection  **
+**Index terms: Aerial Robot Control,  Pedestrian Detection, Action Detection**
 
 This project aims to build a Police Intelligent UAV to solve the problem that there is not enough Moblie Police Force in remote part of cities. Our Intelligent UAV has three main functions: Autonomous Cruise、Detection of Violence and Object Tracking and Alarm.
 

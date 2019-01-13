@@ -6,8 +6,8 @@ title: Honors
 <img src="/images/fulls/honors2.jpg" class="fit image"> 
 ## Scholarship
 
-* "December 9th" Excellent Scholarship in Overall Aspect  (top 2%)
-* Excellent Student Cadres of Tsinghua University
+* "December 9th" Excellent Scholarship in Overall Aspect  (top 1%)
+* Excellent Student Leaders of Tsinghua University
 * University Scholarship for Excellent Social Work
 * University Scholarship for Excellent Artistic Work
 * University Scholarship for Excellent Technological Innovation
@@ -20,7 +20,7 @@ title: Honors
 * As first author, ranked 3th in *The 7th Innovation Competition of Tsinghua University*  (May, 2018)
 * As first author, won third Prize in *The 36th Challenge Cup of Tsinghua University* (April, 2018)
 * As team member, ranking 4th in *The 2th Microsoft-Tsinghua Digital Reality Development Competition* (December, 2017)
-* As team leader, won Second Prize in *Hardware Design Competition of Tsinghua University* (June, 2017)
+* As team leader, won 2nd Prize in *Hardware Design Competition of Tsinghua University* (June, 2017)
 
 ## Honors as Volunteer
 
