@@ -50,7 +50,7 @@ Main Course:
 
   April, 2017  ~  present
 
-  **Member of 16th Siyuan Leadership Program  (36 selected form whole Tsinghua)**
+  **Member of 16th Siyuan Leadership Program  (36 selected from whole Tsinghua)**
 
   Under the idea of “receiving, growing and giving",  "Siyuan" is an outstanding college student development program that is tailored to cultivate the future leaders with strong sense of social responsibility and the spirit to contribute.
 
@@ -64,13 +64,13 @@ Main Course:
 
   June, 2018  ~  present
 
-  **Member of 6th Qichuang Entrepreneurship Program (20 selected form whole Tsinghua)**
+  **Member of 6th Qichuang Entrepreneurship Program (20 selected from whole Tsinghua)**
 
   In Chinese, "Qi" means "start" and "Chuang" means "innovation". So with these two main goals, "Qichuang Program" requires the elected students to be equipped with the ability of innovation and the courage to start. 
 
   In winter vacation of 2019, we will make a trip to Y combinator in silicon valley and visit Standford University for a week to soak up  the the atmosphere of innovation and entrepreneurship. And we are provided with much related resources, like the opportunity to shadow a CEO of some start-ups for a week to learn how to lead a company to develop fast.
 
-## Labortory Experience
+## Research Experience
 
 ### An Enhenced Indoor Positioning Method without Extra Deploying Devices
 
@@ -96,7 +96,7 @@ This project aims to build a Police Intelligent UAV to solve the problem that th
 
 The UAV will cruise over the street according to the prescribed route with ability to avoid dynamic and static obstacles. Once it detect violent behavior of a person by its camera using computer vision method, it will track the object in the sky and alarm the police simultaneously. Besides, it can carry some expulsion weapons like strong light and loudspeaker to warn and Prevent crimes.
 
-This project has passed the *Beijing University Students Innovation and Entrepreneurship Project* and won the  financial support.
+This project has passed the *University Students Innovation and Entrepreneurship Project of Beijing* and won the  financial support.
 
 <img src="/images/fulls/drone1.png" class="fit image">
 
