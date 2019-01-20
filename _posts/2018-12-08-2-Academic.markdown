@@ -8,13 +8,7 @@ title: Academic Experience
 
 ### Major : Automation (EECS)
 
-August, 2016  ~  present
-
-**Major in Department of Automation, Tsinghua University, Beijing**
-
-**GPA：3.44/4    Rank: 15/168   (2 years)**
-
-**GPA:   3.58/4	   Rank:  8/168  (first year)**
+August, 2016  ~  present<br>**Major in Department of Automation, Tsinghua University, Beijing**<br>**GPA：3.44/4    Rank: 15/168   (2 years)**<br>**GPA：3.58/4	   Rank:  8/168  (first year)**
 
 | Course Title                              | Grade | Course Title                                       | Grade |
 | ----------------------------------------- | ----- | -------------------------------------------------- | ----- |
@@ -24,63 +18,19 @@ August, 2016  ~  present
 | Computer Languages and Programming        | A     | Data Structures                                    | A-    |
 | Principle of Circuits                     | A-    | Introduction to Information Science and Technology | A-    |
 
-**Mathematics:** Calculus A(2), Introduction to Complex Analysis, Stocastic Mathematical Methods, Signals and System Analysis, Numerical Analysis and Algorithms, Principle of Automatic Control.
-
-**Computer Science:** C++ Programme Design and Training, Computer Networks and Applications, Digital Image Processing.
-
-**Electrical Courses：**Digital Electronics, Fundamentals of Analog Electronics, Contemporary Electronic System Design, Foundamentals of Power Electronics Technology.
-
-**Others:** Computational Genome Analysis, Introduction of Terahertz Techonology, Dialogue between Neuroscience and Artificial Intelligence. 
+**Mathematics:** Calculus A(2), Introduction to Complex Analysis, Stocastic Mathematical Methods, Signals and System Analysis, Numerical Analysis and Algorithms, Principle of Automatic Control.<br>**Computer Science:** C++ Programme Design and Training, Computer Networks and Applications, Digital Image Processing.<br>**Electrical Courses：**Digital Electronics, Fundamentals of Analog Electronics, Contemporary Electronic System Design, Foundamentals of Power Electronics Technology.<br>**Others:** Computational Genome Analysis, Introduction of Terahertz Techonology, Dialogue between Neuroscience and Artificial Intelligence. 
 
 ### Minor : English
 
-August, 2017  ~  present
-
-**Minor in Department of Foreign Language and Literature, Tsinghua University, Beijing**
-
-Main Course: 
-
-**Basic Skills:** English Reading (1)(2), English Listening (1)(2), English Writing (1), Reading & Writing for Reviews, Reading & Writing for Translation Challenges, English Interpretation.
-
-**Cultural Courses:** The Foundations of Western Culture, British Society and Culture, Americian Society and Culture, From the Silver Screen: English Films Appreciation.
-
-### Special Talents Training Program of Tsinghua
-
-* **Siyuan Leadership Program**
-
-  April, 2017  ~  present
-
-  **Member of 16th Siyuan Leadership Program  (36 selected from whole Tsinghua)**
-
-  Under the idea of “receiving, growing and giving",  "Siyuan" is an outstanding college student development program that is tailored to cultivate the future leaders with strong sense of social responsibility and the spirit to contribute.
-
-  Every year’s summer social practice, Siyuan students are required to set up projects in fields like politics, economy and society and research on those projects through both literature review and field study. The themes for each year are “A feeling for motherland”, “Chinese power” and “International vision”.
-
-  <img src="/images/fulls/Siyuan.jpg" class="fit image">
-
-  Visiting *Phoenix Satellite TV* in Hong Kong (August, 2018)
-
-* **Qicuang Entrepreneurship Program**
-
-  June, 2018  ~  present
-
-  **Member of 6th Qichuang Entrepreneurship Program (20 selected from whole Tsinghua)**
-
-  In Chinese, "Qi" means "start" and "Chuang" means "innovation". So with these two main goals, "Qichuang Program" requires the elected students to be equipped with the ability of innovation and the courage to start. 
-
-  In winter vacation of 2019, we will make a trip to Y combinator in silicon valley and visit Standford University for a week to soak up  the the atmosphere of innovation and entrepreneurship. And we are provided with much related resources, like the opportunity to shadow a CEO of some start-ups for a week to learn how to lead a company to develop fast.
+August, 2017  ~  present<br>**Minor in Department of Foreign Language and Literature, Tsinghua University, Beijing**<br>Main Course: <br>**Basic Skills:** English Reading (1)(2), English Listening (1)(2), English Writing (1), Reading & Writing for Reviews, Reading & Writing for Translation Challenges, English Interpretation.<br>**Cultural Courses:** The Foundations of Western Culture, British Society and Culture, Americian Society and Culture, From the Silver Screen: English Films Appreciation.
 
 ## Research Experience
 
 ### An Enhenced Indoor Positioning Method without Extra Deploying Devices
 
-December, 2019 ~ present
+December, 2018 ~ present<br>**Index terms: Indoor Positioning, Inertial Navigation, Augmented Reality**
 
-**Index terms: Indoor Positioning, Inertial Navigation, Augmented Reality**
-
-Current indoor positioning methods are not practical especially in emergency cases, because they require deploying a large number of devices within the buildings, like RFID or routers. In order to solve the existed problem, we proposes a positioning method that fuses the data from inertial navigation system, floor plans of buildings and the distributed data of the evacuation signs. This positioning method achieves the required precision with no need for deploying extra devices in the buildings. 
-
-We adopts particle filter to implement the positioning method. Matlab is used to simulate the process of observing, calculating and positioning with the real world data collected from the FIT building of Tsinghua . The results  have proved our method effective in reducing the position error. We are now attending to apply the method to real-world use, developping a HoloLens project with Unity3D. If we can demonstrate the feasibility of this positioning method, it can be utilized in some emergency cases, like assisting the fireman to navigate in fire area.
+Current indoor positioning methods are not practical especially in emergency cases, because they require deploying a large number of devices within the buildings, like RFID or routers. In order to solve the existed problem, we proposes a positioning method that fuses the data from inertial navigation system, floor plans of buildings and the distributed data of the evacuation signs. This positioning method achieves the required precision with no need for deploying extra devices in the buildings. <br>We adopts particle filter to implement the positioning method. Matlab is used to simulate the process of observing, calculating and positioning with the real world data collected from the FIT building of Tsinghua . The results  have proved our method effective in reducing the position error. We are now attending to apply the method to real-world use, developping a HoloLens project with Unity3D. If we can demonstrate the feasibility of this positioning method, it can be utilized in some emergency cases, like assisting the fireman to navigate in fire area.
 
 <img src="/images/fulls/position1.png" class="fit image">
 
@@ -88,52 +38,50 @@ We adopts particle filter to implement the positioning method. Matlab is used to
 
 ### Hawkeye Skyguard:  Intelligent Aerial Patrol Robot
 
-June, 2018  ~  present  (as team leader)
+June, 2018  ~  present  (as team leader)<br>**Index terms: Aerial Robot Control,  Pedestrian Detection, Action Detection**
 
-**Index terms: Aerial Robot Control,  Pedestrian Detection, Action Detection**
+This project aims to build a Police Intelligent UAV to solve the problem that there is not enough Moblie Police Force in remote part of cities. Our Intelligent UAV has three main functions: Autonomous Cruise、Detection of Violence and Object Tracking and Alarm.<br>The UAV will cruise over the street according to the prescribed route with ability to avoid dynamic and static obstacles. Once it detect violent behavior of a person by its camera using computer vision method, it will track the object in the sky and alarm the police simultaneously. Besides, it can carry some expulsion weapons like strong light and loudspeaker to warn and Prevent crimes.<br>This project has passed the *University Students Innovation and Entrepreneurship Project of Beijing* and won the  financial support.
 
-This project aims to build a Police Intelligent UAV to solve the problem that there is not enough Moblie Police Force in remote part of cities. Our Intelligent UAV has three main functions: Autonomous Cruise、Detection of Violence and Object Tracking and Alarm.
+<div align="center"><img src="/images/fulls/drone1.png" heigh="90%" width="90%"><br><img src="/images/fulls/drone2.png" heigh="70%" width="70%"></div>
 
-The UAV will cruise over the street according to the prescribed route with ability to avoid dynamic and static obstacles. Once it detect violent behavior of a person by its camera using computer vision method, it will track the object in the sky and alarm the police simultaneously. Besides, it can carry some expulsion weapons like strong light and loudspeaker to warn and Prevent crimes.
 
-This project has passed the *University Students Innovation and Entrepreneurship Project of Beijing* and won the  financial support.
-
-<img src="/images/fulls/drone1.png" class="fit image">
-
-<img src="/images/fulls/drone2.png" class="fit image">
 
 ### TransGlass: Personal Assistant in Foreign Language Environment   
-December, 2017  ~  May, 2018  (as team leader)
+December, 2017  ~  May, 2018  (as team leader)<br>**Index terms: Character Translation, Augmented Reality**
 
-**Index terms: Character Translation, Augmented Reality**
-
-Transglass is a project developed on HoloLens with Unity3D, aiming to solve the problem that people can not figure out what the words means in other languages. We choose two main usage seenarios , international study and international traveling, and also develop special function to serve the international students or tranveler respectively.
-
- In the demo version, the Chinese words in the sight will be translated into English automatically and replace the original words in AR method. In the student mode, the Chinese slides can be translated into English version and display on the wall nearby which can adjusted easily. And in the traveller mode, the Chinese sign will be translated.
-
-Apart from translation, we have also provided 3D teaching model for the class situation, making it much easier for students to understand a 3D object and learn better. For international travellers, after the Chinese words are translated into English, a searching button can be touched. If do so, a screen will pop up in the sight, linking to the Wekipedia title of the translated text's key word. Another function is Virtual Message Box, which means you can leave any personal message in a famous scenery. In this way, we can tackle the problem that some people tend to scrawl even on some historical relics.
-
-TransGlass has won Third Prize in *The 36th Challenge Cup of Tsinghua University* (2018.4) and  3rd place in *The 7th Innovation Competition of Tsinghua University* (2018.5)
+Transglass is a project developed on HoloLens with Unity3D, aiming to solve the problem that people can not figure out what the words means in other languages. We choose two main usage seenarios , international study and international traveling, and also develop special function to serve the international students or tranveler respectively.<br> In the demo version, the Chinese words in the sight will be translated into English automatically and replace the original words in AR method. In the student mode, the Chinese slides can be translated into English version and display on the wall nearby which can adjusted easily. And in the traveller mode, the Chinese sign will be translated.<br>Apart from translation, we have also provided 3D teaching model for the class situation, making it much easier for students to understand a 3D object and learn better. For international travellers, after the Chinese words are translated into English, a searching button can be touched. If do so, a screen will pop up in the sight, linking to the Wekipedia title of the translated text's key word. Another function is Virtual Message Box, which means you can leave any personal message in a famous scenery. In this way, we can tackle the problem that some people tend to scrawl even on some historical relics.<br>TransGlass has won Third Prize in *The 36th Challenge Cup of Tsinghua University* (2018.4) and  3rd place in *The 7th Innovation Competition of Tsinghua University* (2018.5)
 
 [Click to watch the video:]( https://www.youtube.com/watch?v=OVKw2APmlw4)
 
-<img src="/images/fulls/transclass.png" class="fit image">
-
-<img src="/images/fulls/transglass2.jpg" class="fit image">
+<div align="center">
+    <img src="/images/fulls/transclass.png" heigh="80%" width="80%"><br>
+    <img src="/images/fulls/transglass2.jpg" heigh="80%" width="80%"></div>
 
 ### Intelligent Fire Rescure Helmet
 
-October, 2017  ~  December, 2017 
+October, 2017  ~  December, 2017 <br>**Index terms:  Inertial Navigation ,Augmented Reality, Vision Enhancement**
 
-**Index terms:  Inertial Navigation ,Augmented Reality, Vision Enhancement**
+Intellgent fire rescure helmet is a project developed on HoloLens on the purpose to assist the fireman to rescure the trapped personnel efficiently with two main functions. <br>The first is navigation.In the case that fire station have detected the layout of the building, the helmat will scan the environment and calculate where the fireman is and lead him to the location where the rescures called for help. The second function is visual field enhancement. The helmat will use infrared scanning to detect the surroundings and build the 3D environment model, helping the user to have a clear sight in the situation where lightness is not enough or the smoke is heavy.<br>Our project won 4th place in *The 2th Microsoft-Tsinghua Digital Reality Development Competition*(2017.12)
 
-Intellgent fire rescure helmet is a project developed on HoloLens on the purpose to assist the fireman to rescure the trapped personnel efficiently with two main functions. 
+<div align="center" ><img src="/images/fulls/Fire1.jpg" heigh="80%" width="80%"></div>
 
-The first is navigation.In the case that fire station have detected the layout of the building, the helmat will scan the environment and calculate where the fireman is and lead him to the location where the rescures called for help. The second function is visual field enhancement. The helmat will use infrared scanning to detect the surroundings and build the 3D environment model, helping the user to have a clear sight in the situation where lightness is not enough or the smoke is heavy.
+## Course Project
 
-Our project won 4th place in *The 2th Microsoft-Tsinghua Digital Reality Development Competition*(2017.12)
+* **Multi-view 3D Reconstruction of Human Body**<br>Data Structure, Supervised by Associate Prof. Yebin Liu<br>Utilized Shape-from-Silhouette method to rebuild the Visual Hull of a human body from several pictures from different views.
 
-<img src="/images/fulls/Fire1.jpg" class="fit image">
+  <div align="center"><img src="/images/fulls/datastructure.png" heigh="60%" width="60%">
+
+* **Feature Extraction and Enhancement of Coronary Artery 3D Image**<br>Digtal Image Processing, Supervised by Prof. Jianjiang Feng<br>The processing includes Center Line Extraction, Disconnected Repair and Model Construction.
+
+  <div align="center"><img src="/images/fulls/imageprogressing.png" heigh="80%" width="80%" align="middle"/>
+
+* **Face Synthesis Based on Facial Features**<br>Numerical Analysis and Algorithms, Supervised by Prof. Jie Zhou<br>Implemented facial image fusion function with TPS and B-Spline algorithm. Enhanced the fusing performance with several interpolation methods such as Bilinear Interpolation.
+
+  <div align="center"><img src="/images/fulls/Trump.png" heigh="80%" width="80%">
+
+* **P2P Chat System Design**<br>Computer Networks and Applications, Supervised by Associate Prof. Qingshan Jia<br>Designed a Peer-to-Peer Chat System for instant messaging based on a central location server.Used hybrid network architecture of C/S and P2P to query the current state of users and set up chat links. 
+
+  <div align="center"><img src="/images/fulls/MeChat.png" heigh="90%" width="90%">
 
 ## COMPUTING SKILLS AND OTHERS                                                        
 
@@ -148,3 +96,15 @@ Our project won 4th place in *The 2th Microsoft-Tsinghua Digital Reality Develop
 **Languages:** 
 
 ​	Native in Chinese; Proficient in English (TOFEL 96) 
+
+## Special Talents Training Program of Tsinghua
+
+### Siyuan Leadership Program
+
+April, 2017  ~  present<br>**Member of 16th Siyuan Leadership Program  (36 selected from whole Tsinghua)**<br>Under the idea of “receiving, growing and giving",  "Siyuan" is an outstanding college student development program that is tailored to cultivate the future leaders with strong sense of social responsibility and the spirit to contribute.<br>Every year’s summer social practice, Siyuan students are required to set up projects in fields like politics, economy and society and research on those projects through both literature review and field study. The themes for each year are “A feeling for motherland”, “Chinese power” and “International vision”.
+
+<img src="/images/fulls/Siyuan.jpg" class="fit image"><br>Visiting *Phoenix Satellite TV* in Hong Kong (August, 2018)
+
+### Qichuang Entrepreneurship Program
+
+June, 2018  ~  present<br>**Member of 6th Qichuang Entrepreneurship Program (20 selected from whole Tsinghua)**<br>In Chinese, "Qi" means "start" and "Chuang" means "innovation". So with these two main goals, "Qichuang Program" requires the elected students to be equipped with the ability of innovation and the courage to start. <br>In winter vacation of 2019, we will make a trip to Y combinator in silicon valley and visit Standford University for a week to soak up  the the atmosphere of innovation and entrepreneurship. And we are provided with much related resources, like the opportunity to shadow a CEO of some start-ups for a week to learn how to lead a company to develop fast.
