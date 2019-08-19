@@ -4,9 +4,9 @@ title: Extracurricular Life
 ---
 <img src="/images/fulls/brilliant.jpg" class="fit image"> 
 
-## Campus Activities
+## Activity Organizer
 
-* June, 2018  ~  now<br>Vice President of Student Union, in charge of Public Relations Department and Propaganda Department. 
+* June, 2018  ~  June,2019<br>Vice President of Student Union, in charge of Public Relations Department and Propaganda Department. 
 
 * February, 2018  ~  May, 2018<br>Student Assistant at X-lab ( Innovation and Entrepreneurship Platform of Tsinghua)<br>
 
@@ -15,9 +15,9 @@ title: Extracurricular Life
 * May, 2017  ~  May, 2018<br>Monitor of Class 63 of Automation Department
 
 
-## Chinese Kung Fu
+## Kung Fu Player
 
-I can play Yongchun & Taiji.
+Palyer of Yongchun & Taiji.
 
 <img src="/images/fulls/taiji1.jpg" class="fit image"> 
 
@@ -27,7 +27,15 @@ Playing Taiji on the summit of Wudang Mountain, where Taiji originates from.
 
 Being the captain of Wushu Team of Automation Department.
 
-## Voluntary Work
+## Diversified Athlete
+
+<img src="/images/fulls/Dive.jpg" class="fit image"> 
+
+<img src="/images/fulls/Fence.jpg" class="fit image"> 
+
+<img src="/images/fulls/Shoot.jpg" class="fit image"> 
+
+## Enthusiastic Volunteer
 
 <img src="/images/fulls/voluntary.png" class="fit image"> 
 
@@ -37,7 +45,7 @@ Voluntary Teaching in Huaqing High School, Shanxi Provice, China (August, 2017)<
 
 Being Councellor in Summer School of Tsinghua University (July, 2017)
 
-## Literature and Art Activities
+## Confident Artist
 
 <img src="/images/fulls/host1.jpg" class="fit image"> 
 
@@ -47,19 +55,27 @@ Being the host of *Student Festival Literature and Art Evening*. (December, 2017
 
 Orginizing *Freshman's Dance Party* (September, 2017)
 
-## See the World
+## World Explorer
 
-I like travelling a lot,
+Travelling a lot, 77 cities in China, covering 22 provinces, and 8 countries in the world.
 
-<img src="/images/fulls/china.jpg" class="fit image"> 
+<img src="/images/fulls/Japan.jpg" class="fit image"> 
 
-77 cities in China, covering 22 provinces.
+June, 2018 @Tokyo, Japan
 
-<img src="/images/fulls/world.jpg" class="fit image"> 
+<img src="/images/fulls/SF.jpg" class="fit image"> 
 
-8 countries in the world.
+February, 2019 @San Francisco
 
-## Hackthon
+<img src="/images/fulls/LA.jpg" class="fit image"> 
+
+February, 2019 @Los Angeles
+
+<img src="/images/fulls/LA.jpg" class="fit image"> 
+
+July, 2019 @Washington DC
+
+## Brave Hacker
 
 <img src="/images/fulls/hackthon3.jpg" class="fit image"> 
 
@@ -68,6 +84,16 @@ I like travelling a lot,
 <img src="/images/fulls/hackthon4.jpg" class="fit image"> 
 
 *TechX Hackthon*, Shanghai, China (August, 2018)
+
+## Practical Entrepreneur
+
+<img src="/images/fulls/BigCherry.jpg" class="fit image"> 
+
+@BigCherry™️ since 2016
+
+<img src="/images/fulls/innovate48.jpg" class="fit image"> 
+
+@Innovation48, X-lab
 
 ## With My Love
 

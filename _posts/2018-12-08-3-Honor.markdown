@@ -6,17 +6,18 @@ title: Honors
 <img src="/images/fulls/honors2.jpg" class="fit image"> 
 ## Scholarship
 
-* "December 9th" Excellent Scholarship in Overall Aspect  (Highest Scholarship for Freshman in Tsinghua)
-* Excellent Student Leaders of Tsinghua University
-* University Scholarship for Excellent Social Work
-* University Scholarship for Excellent Artistic Work
-* University Scholarship for Excellent Technological Innovation
-* University Scholarship for Excellent Social Investigation
-* University Scholarship for Excellent Voluntary
+* "December 9th" Outstanding Scholarship in Overall Aspect  (Highest Scholarship for Freshman in Tsinghua)
+* Distinguished Student Leaders of Tsinghua University
+* University Scholarship for Outstanding Social Work
+* University Scholarship for Outstanding Artistic Work
+* University Scholarship for Outstanding Technological Innovation
+* University Scholarship for Outstanding Social Investigation
+* University Scholarship for Outstanding Voluntary
 * HAGE Scholarship of Automation Department
 
 ## Honors as Innovator
 
+* As first author, awarded as Meritorious Winner in MCM/ICM2019
 * As first author, ranked 3th in *The 7th Innovation Competition of Tsinghua University*  (May, 2018)
 * As first author, won third Prize in *The 36th Challenge Cup of Tsinghua University* (April, 2018)
 * As team member, ranking 4th in *The 2th Microsoft-Tsinghua Digital Reality Development Competition* (December, 2017)
