@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-18T22:40:08-04:00</updated><id>http://localhost:4000/</id><title>Li Annan | Something Brilliant This Way Comes</title><subtitle>It‘s my personal page.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-18T23:05:28-04:00</updated><id>http://localhost:4000/</id><title>Li Annan | Something Brilliant This Way Comes</title><subtitle>It‘s my personal page.
 </subtitle><author><name>Li Annan</name><email>lian16@mails.tsinghua.edu.com</email></author><entry><title>Honors</title><link href="http://localhost:4000/2018/12/08/3-Honor/" rel="alternate" type="text/html" title="Honors" /><published>2018-12-08T00:00:00-05:00</published><updated>2018-12-08T00:00:00-05:00</updated><id>http://localhost:4000/2018/12/08/3-Honor</id><content type="html" xml:base="http://localhost:4000/2018/12/08/3-Honor/">&lt;p&gt;&lt;img src=&quot;/images/fulls/honors2.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;scholarship&quot;&gt;Scholarship&lt;/h2&gt;
 
@@ -123,6 +123,8 @@ visual detection and motion gait algorithm. As a member of &lt;em&gt;Vision Dete
 
 &lt;p&gt;Adopting a PID controller, our goal is to achieve a stable self-balance result with adaptive ability to different payload. With reasonable abstraction, we developed a mathematical model and conducted simulation using Simulink on Matlab to find the best parameter sets and then built a physical model using Simscape on Matlab to narrow the theoretical feasible domain. Finally, a real scooter is assembled to achieve the transportation function.&lt;/p&gt;
 
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/5fq81riu66fymc4/NewBalance.mp4?dl=0&quot;&gt;Click to watch the video:&lt;/a&gt;&lt;/p&gt;
+
 &lt;p&gt;&lt;img src=&quot;/images/fulls/NewBalance.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;an-enhenced-indoor-positioning-method-without-extra-deploying-devices&quot;&gt;An Enhenced Indoor Positioning Method without Extra Deploying Devices&lt;/h3&gt;
@@ -146,7 +148,7 @@ visual detection and motion gait algorithm. As a member of &lt;em&gt;Vision Dete
 
 &lt;p&gt;Transglass is a project developed on HoloLens with Unity3D, aiming to solve the problem that people can not figure out what the words means in other languages. We choose two main usage seenarios , international study and international traveling, and also develop special function to serve the international students or tranveler respectively.&lt;br /&gt; In the demo version, the Chinese words in the sight will be translated into English automatically and replace the original words in AR method. In the student mode, the Chinese slides can be translated into English version and display on the wall nearby which can adjusted easily. And in the traveller mode, the Chinese sign will be translated.&lt;br /&gt;Apart from translation, we have also provided 3D teaching model for the class situation, making it much easier for students to understand a 3D object and learn better. For international travellers, after the Chinese words are translated into English, a searching button can be touched. If do so, a screen will pop up in the sight, linking to the Wekipedia title of the translated text’s key word. Another function is Virtual Message Box, which means you can leave any personal message in a famous scenery. In this way, we can tackle the problem that some people tend to scrawl even on some historical relics.&lt;br /&gt;TransGlass has won Third Prize in &lt;em&gt;The 36th Challenge Cup of Tsinghua University&lt;/em&gt; (2018.4) and  3rd place in &lt;em&gt;The 7th Innovation Competition of Tsinghua University&lt;/em&gt; (2018.5)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=OVKw2APmlw4&quot;&gt;Click to watch the video:&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/herr191n7nm9tvb/TransGlass.mp4?dl=0&quot;&gt;Click to watch the video:&lt;/a&gt;&lt;/p&gt;
 
 &lt;div align=&quot;center&quot;&gt;
     &lt;img src=&quot;/images/fulls/transclass.png&quot; heigh=&quot;80%&quot; width=&quot;80%&quot; /&gt;&lt;br /&gt;
@@ -222,20 +224,7 @@ visual detection and motion gait algorithm. As a member of &lt;em&gt;Vision Dete
 
 &lt;h2 id=&quot;activity-organizer&quot;&gt;Activity Organizer&lt;/h2&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;June, 2018  ~  June,2019&lt;br /&gt;Vice President of Student Union, in charge of Public Relations Department and Propaganda Department.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;February, 2018  ~  May, 2018&lt;br /&gt;Student Assistant at X-lab ( Innovation and Entrepreneurship Platform of Tsinghua)&lt;br /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;June, 2017  ~  June, 2018&lt;br /&gt;Minister of Public Relations Department of Student Union&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;May, 2017  ~  May, 2018&lt;br /&gt;Monitor of Class 63 of Automation Department&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;June, 2018  ~  June,2019&lt;/strong&gt;&lt;br /&gt;Vice President of Student Union, in charge of Public Relations Department and Propaganda Department. &lt;br /&gt;&lt;strong&gt;February, 2018  ~  May, 2018&lt;/strong&gt;&lt;br /&gt;Student Assistant at X-lab ( Innovation and Entrepreneurship Platform of Tsinghua)&lt;br /&gt;&lt;strong&gt;June, 2017  ~  June, 2018&lt;/strong&gt;&lt;br /&gt;Minister of Public Relations Department of Student Union&lt;br /&gt;&lt;strong&gt;May, 2017  ~  May, 2018&lt;/strong&gt;&lt;br /&gt;Monitor of Class 63 of Automation Department&lt;/p&gt;
 
 &lt;h2 id=&quot;kung-fu-player&quot;&gt;Kung Fu Player&lt;/h2&gt;
 
@@ -316,6 +305,8 @@ visual detection and motion gait algorithm. As a member of &lt;em&gt;Vision Dete
 &lt;p&gt;&lt;img src=&quot;/images/fulls/love1.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/fulls/love.jpg&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/s/ttfodam5h263nx9/1000.mp4?dl=0&quot;&gt;Click to eat sugar&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/fulls/love4.png&quot; class=&quot;fit image&quot; /&gt;&lt;/p&gt;
 
