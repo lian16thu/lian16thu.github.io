@@ -31,9 +31,7 @@ Being the captain of Wushu Team of Automation Department.
 
 <img src="/images/fulls/Dive.jpg" class="fit image"> 
 
-<img src="/images/fulls/Fence.jpg" class="fit image"> 
-
-<img src="/images/fulls/Shoot.jpg" class="fit image"> 
+<img src="/images/fulls/Fence&Shoot.jpg" class="fit image"> 
 
 ## Enthusiastic Volunteer
 
@@ -63,15 +61,11 @@ Travelling a lot, 77 cities in China, covering 22 provinces, and 8 countries in 
 
 June, 2018 @Tokyo, Japan
 
-<img src="/images/fulls/SF.jpg" class="fit image"> 
+<img src="/images/fulls/SF&LA.jpg" class="fit image"> 
 
-February, 2019 @San Francisco
+February, 2019 @San Francisco & Los Angeles
 
-<img src="/images/fulls/LA.jpg" class="fit image"> 
-
-February, 2019 @Los Angeles
-
-<img src="/images/fulls/LA.jpg" class="fit image"> 
+<img src="/images/fulls/DC.jpg" class="fit image"> 
 
 July, 2019 @Washington DC
 
