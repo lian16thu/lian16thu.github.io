@@ -100,15 +100,15 @@ Intellgent fire rescure helmet is a project developed on HoloLens on the purpose
 
 **Programming languages:** 
 
-​	C#, C, C++, Python, html, MATLAB, VerilogHDL, Assembly Language.
+​	C#, C, C++, Python, html, javascript, MATLAB, VerilogHDL, Assembly Language.
 
 **Software and Operation Systems:** 
 
-​	ROS, Unity3D, Unreal Engine, Autodesk Fuse, Ultimaker Cura, GitHub, Linux.
+​	ROS,  Linux, Unity3D, Unreal Engine, Autodesk Fuse, Ultimaker Cura, Ps, Pr, Ae.
 
 **Languages:** 
 
-​	Native in Chinese; Proficient in English (TOFEL 100) 
+​	Native in Chinese; Proficient in English (TOFEL 106) 
 
 ## Special Talents Training Program of Tsinghua
 
