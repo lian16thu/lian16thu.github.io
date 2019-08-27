@@ -8,7 +8,7 @@ title: Academic Experience
 
 ### Major : Automation (EECS)
 
-August, 2016  ~  present<br>**Major in Department of Automation, Tsinghua University, Beijing**<br>**GPA：3.73/4    Rank: 21/168   (3 years)**<br>
+August, 2016  ~  present<br>**Major in Department of Automation, Tsinghua University, Beijing**<br>**GPA：3.73/4    Rank: 24/168   (3 years)**<br>
 
 | Course Title                              | Grade | Course Title                              | Grade |
 | ----------------------------------------- | ----- | ----------------------------------------- | ----- |
